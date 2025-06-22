@@ -12,4 +12,4 @@ engagement.
 
 
 To run the code go to the terminal and type the command below
-streamlit run Restaurant_name_generator
+streamlit run Restaurant_name_generator.py
